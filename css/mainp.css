@@ -1,0 +1,39 @@
+.fixdf{
+  background-image:linear-gradient(rgba(214, 13, 233, 0.637),rgba(182, 40, 238, 0.795),rgba(26, 248, 174, 0.753));
+
+  border-radius: 100px;
+  background-position: center;
+  background-attachment:fixed;
+  transition-delay: 2s;   
+  background-repeat: no-repeat;  
+
+}
+.fixdf2{
+  background-image:linear-gradient(rgba(88, 221, 230, 0.6),rgba(220, 112, 253, 0.6),rgba(86, 219, 224, 0.6));
+border-radius: 50px; 
+background-position: center;
+background-attachment:fixed;
+transition-delay: 2s;   
+background-repeat: no-repeat;           
+}
+.fixdf1{
+  background-image:linear-gradient(rgba(88, 221, 230, 0.6),rgba(220, 112, 253, 0.6),rgba(86, 219, 224, 0.6));
+  border-radius: 50px; 
+  background-position: center;
+  background-attachment:fixed;
+  transition-delay: 2s;   
+  background-repeat: no-repeat;           
+}
+
+.fixdf4{
+  background-image:linear-gradient(rgba(134, 134, 134, 0.6),rgba(88, 154, 199, 0.6),rgba(131, 131, 131, 0.6));
+  border-radius: 100px;   
+  background-position: center;
+  background-attachment:fixed;
+  transition-delay: 2s;   
+  background-repeat: no-repeat;         
+}
+.aboutslid{
+  background-image:linear-gradient(rgba(218, 88, 230, 0.6),rgba(112, 213, 253, 0.6),rgba(218, 88, 230, 0.6));
+  border-radius: 100px;          
+}
